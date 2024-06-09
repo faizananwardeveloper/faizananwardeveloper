@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+| Name  | Desgnation |  Core Expertise | Expereince |
+| ------------- | ------------- | ------------- | ------------- |
+| Faizan Anwar  | Sr. Software Engineer | Ruby on Rails, ReactJS | 5+ Years
+
+## Summary
+
+Faizan has around 5 years of experience. He possesses a robust command and hands-on proficiency in developing web APIs, utilizing cutting-edge technologies such as ROR, React.js, Angular, and various database management systems like MySQL and PostgreSQL. His extensive project portfolio spans diverse industries, including Event Organization, Marketplace, Financial Advisor Tools, Amazon Product Campaign Management, Event Staffing, and Employee’s Profile Management, showcasing his versatile expertise.
+As a dynamic and creative professional, Faizan boasts over 5 years of experience in crafting robust code solutions tailored for high-volume businesses. His role as an experienced software engineer reflects a profound commitment to developing innovative programs that enhance organizational efficiency and effectiveness.
+Functioning as a skilled leader, Faizan has demonstrated the ability to motivate, educate, and manage teams of professionals to create software solutions while adeptly tracking changes. His confidence as a communicator, coupled with strategic thinking and innovative creativity, defines his approach. Faizan's overarching mission is to develop customized software solutions that not only address a company’s organizational needs but also spotlight their core competencies, ultimately propelling them towards sustained success.
 <!--
 **faizananwardeveloper/faizananwardeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
