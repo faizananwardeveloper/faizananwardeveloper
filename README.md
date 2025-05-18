@@ -2,7 +2,7 @@
 
 | Name  | Desgnation |  Core Expertise | Expereince |
 | ------------- | ------------- | ------------- | ------------- |
-| Muhammad Faizan Anwar  | Sr. Software Engineer | Ruby on Rails, Elixir/Phoenix, ReactJS, Angular | 5+ Years
+| Muhammad Faizan Anwar  | Sr. Software Engineer | Ruby on Rails, Node.js, Express.js, Elixir/Phoenix, ReactJS, Angular | 5+ Years
 
 ## Summary
 
