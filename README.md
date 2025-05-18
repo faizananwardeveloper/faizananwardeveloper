@@ -6,7 +6,40 @@
 
 ## Summary
 
-Experienced Senior Software Engineer with over 5+ years of expertise in Ruby on Rails (ROR), Python/Django, Elixir/Phoenix, React.js, and Angular. Proficient in developing scalable web applications, architecting efficient solutions, and leading technical teams. Skilled in building APIs, managing complex database systems (PostgreSQL, MySQL), and implementing CI/CD pipelines. Adept at delivering high-quality code quickly while maintaining performance and scalability, Faizan has led projects across diverse industries, including Marketplace, e-commerce, AI, and IoT solutions. With a passion for innovation, Faizan is committed to crafting customized software solutions that enhance business efficiency, streamline processes, and drive growth.
+### 👋 Hi there, I'm Muhammad Faizan — Senior Software Engineer
+
+💻 I'm a passionate software engineer with 5+ years of experience in building scalable web applications using:
+- 🛠️ **Backend:** Ruby on Rails, Elixir/Phoenix, Node.js, Express.js, Python
+- 🌐 **Frontend:** React.js, Angular, JavaScript (ES6+), SSR
+- 🧩 **Databases:** PostgreSQL, MySQL, Redis, Elasticsearch
+- 🚀 **DevOps:** Docker, Kubernetes, CI/CD, Heroku, AWS
+- 📦 **Tools:** GraphQL, RSpec, Turbo/Hotwire, TDD, Agile
+
+### 🚧 What I’m working on
+- Building production-grade full-stack apps
+- Writing clean, tested, and maintainable code
+- Deploying with Docker, AWS, and CI/CD
+- Contributing to scalable and SEO-optimized solutions
+
+### 📌 Notable Highlights
+- Developed and deployed full-stack web applications for startups and enterprises across industries like e-commerce, AI, marketplaces, and event management.
+
+- Delivered scalable backends using Ruby on Rails, Elixir, and Node.js, and built modern frontends with React.js and Angular.
+
+- Implemented CI/CD pipelines, Docker/Kubernetes deployments, and AWS infrastructure to support high-availability applications.
+
+- Improved performance, SEO, and user experience by optimizing architecture, introducing SSR, and automating workflows.
+
+### 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/faizan-anwar-developer/)
+- [Email](mailto:faizananwardeveloper@gmail.com)
+- [Upwork]([https://www.upwork.com/freelancers/~01faizan-anwar-upwork](https://www.upwork.com/freelancers/~01c2f212ee04d96057?mp_source=share)) *(add your actual profile link)*
+
+---
+
+💬 Always open to collaboration, learning, and new projects!
+
+
 <!--
 **faizananwardeveloper/faizananwardeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
