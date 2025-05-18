@@ -33,7 +33,7 @@
 ### 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/faizan-anwar-developer/)
 - [Email](mailto:faizananwardeveloper@gmail.com)
-- [Upwork]([https://www.upwork.com/freelancers/~01faizan-anwar-upwork](https://www.upwork.com/freelancers/~01c2f212ee04d96057?mp_source=share)) *(add your actual profile link)*
+- [Upwork](https://www.upwork.com/freelancers/~01c2f212ee04d96057?mp_source=share)
 
 ---
 
