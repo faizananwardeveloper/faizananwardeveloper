@@ -2,13 +2,13 @@
 
 | Name  | Desgnation |  Core Expertise | Expereince |
 | ------------- | ------------- | ------------- | ------------- |
-| Muhammad Faizan Anwar  | Sr. Software Engineer | Ruby on Rails, Node.js, Express.js, Elixir/Phoenix, ReactJS, Angular | 5+ Years
+| Muhammad Faizan Anwar  | Sr. Software Engineer | Ruby on Rails, Node.js, Express.js, Elixir/Phoenix, ReactJS, Angular | 6+ Years
 
 ## Summary
 
 ### 👋 Hi there, I'm Muhammad Faizan — Senior Software Engineer
 
-💻 I'm a passionate software engineer with 5+ years of experience in building scalable web applications using:
+💻 I'm a passionate software engineer with 6+ years of experience in building scalable web applications using:
 - 🛠️ **Backend:** Ruby on Rails, Elixir/Phoenix, Node.js, Express.js, Python
 - 🌐 **Frontend:** React.js, Angular, JavaScript (ES6+), SSR
 - 🧩 **Databases:** PostgreSQL, MySQL, Redis, Elasticsearch
