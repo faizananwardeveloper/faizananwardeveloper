@@ -9,7 +9,7 @@
 ### 👋 Hi there, I'm Muhammad Faizan — Senior Software Engineer
 
 💻 I'm a passionate software engineer with 6+ years of experience in building scalable web applications using:
-- 🛠️ **Backend:** Ruby on Rails, Elixir/Phoenix, Node.js, Express.js, Python
+- 🛠️ **Backend:** Ruby on Rails, FastApi, Elixir/Phoenix, Node.js, Express.js
 - 🌐 **Frontend:** React.js, Angular, JavaScript (ES6+), SSR
 - 🧩 **Databases:** PostgreSQL, MySQL, Redis, Elasticsearch
 - 🚀 **DevOps:** Docker, Kubernetes, CI/CD, Heroku, AWS
